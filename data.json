@@ -1,0 +1,4659 @@
+[
+    {
+        "no": 1,
+        "name": "Alexewicz, Piotr",
+        "birthday": "2000-04-09",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 21.02,
+            "mean": 20.88,
+            "scores": {
+                "GO": 15,
+                "EP": 22,
+                "JA": 22,
+                "DS": 21,
+                "SC": 21,
+                "YA": 21,
+                "KP": 19,
+                "MB": 19,
+                "AE": 24,
+                "JR": 24,
+                "MK": 24,
+                "NG": 24,
+                "KJ": 18,
+                "KK": 18,
+                "RM": 20,
+                "WS": 20,
+                "PP": 23
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.08,
+            "mean": 20.88,
+            "scores": {
+                "DS": 19,
+                "GO": 19,
+                "AE": 23,
+                "JA": 23,
+                "NG": 23,
+                "MB": 22,
+                "MK": 22,
+                "SC": 22,
+                "YA": 22,
+                "KJ": 17,
+                "KK": 17,
+                "EP": 21,
+                "JR": 21,
+                "KP": 21,
+                "PP": 21,
+                "RM": 21,
+                "WS": 21
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.74,
+            "mean": 20.76,
+            "scores": {
+                "GO": 18,
+                "RM": 18,
+                "DS": 21,
+                "JA": 21,
+                "JR": 21,
+                "KK": 21,
+                "SC": 21,
+                "WS": 21,
+                "YA": 22,
+                "MB": 24,
+                "AE": 23,
+                "MK": 23,
+                "NG": 23,
+                "EP": 19,
+                "KJ": 19,
+                "KP": 19,
+                "PP": 19
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.3,
+            "mean": 21.29,
+            "scores": {
+                "GO": 19,
+                "KJ": 19,
+                "SC": 19,
+                "YA": 19,
+                "JA": 22,
+                "JR": 22,
+                "KK": 22,
+                "NG": 22,
+                "PP": 22,
+                "RM": 22,
+                "MB": 24,
+                "DS": 21,
+                "AE": 25,
+                "MK": 23,
+                "WS": 23,
+                "EP": 18,
+                "KP": 20
+            },
+            "result": 5
+        }
+    },
+    {
+        "no": 2,
+        "name": "Aumiller, Jonas",
+        "birthday": "1998-08-06",
+        "country": [
+            "Germany"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 20.46,
+            "mean": 20.29,
+            "scores": {
+                "GO": 15,
+                "JA": 23,
+                "MK": 23,
+                "SC": 23,
+                "JR": 20,
+                "KP": 20,
+                "YA": 20,
+                "MB": 18,
+                "DS": 22,
+                "EP": 22,
+                "PP": 22,
+                "RM": 22,
+                "AE": 21,
+                "NG": 21,
+                "KJ": 19,
+                "KK": 17,
+                "WS": 17
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.81,
+            "mean": 19.76,
+            "scores": {
+                "EP": 19,
+                "GO": 19,
+                "PP": 19,
+                "JA": 20,
+                "JR": 20,
+                "MB": 20,
+                "RM": 20,
+                "MK": 21,
+                "SC": 21,
+                "YA": 21,
+                "DS": 22,
+                "NG": 22,
+                "AE": 23,
+                "KJ": 18,
+                "WS": 18,
+                "KK": 17,
+                "KP": 16
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 3,
+        "name": "Bao, Yanyan",
+        "birthday": "2006-11-28",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.35,
+            "mean": 20.0,
+            "scores": {
+                "DS": 22,
+                "EP": 22,
+                "GO": 22,
+                "YA": 22,
+                "JA": 13,
+                "KP": 19,
+                "MB": 19,
+                "PP": 23,
+                "RM": 23,
+                "SC": 23,
+                "WS": 23,
+                "AE": 21,
+                "KK": 21,
+                "KJ": 16,
+                "NG": 16,
+                "MK": 18,
+                "JR": 17
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 18.82,
+            "mean": 19.0,
+            "scores": {
+                "AE": 18,
+                "GO": 18,
+                "JA": 18,
+                "NG": 18,
+                "YA": 21,
+                "KK": 19,
+                "KP": 19,
+                "MB": 19,
+                "RM": 19,
+                "SC": 23,
+                "DS": 17,
+                "EP": 17,
+                "KJ": 17,
+                "MK": 16,
+                "PP": 22,
+                "WS": 22,
+                "JR": 20
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 4,
+        "name": "Basista, Michał",
+        "birthday": "2004-09-30",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 17.87,
+            "mean": 17.94,
+            "scores": {
+                "GO": 22,
+                "JA": 15,
+                "KJ": 15,
+                "SC": 21,
+                "YA": 21,
+                "AE": 17,
+                "DS": 17,
+                "MB": 17,
+                "NG": 17,
+                "KK": 18,
+                "KP": 18,
+                "MK": 18,
+                "PP": 18,
+                "RM": 19,
+                "EP": 16,
+                "JR": 16,
+                "WS": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 5,
+        "name": "Chang, Kai-Min",
+        "birthday": "2001-03-15",
+        "country": [
+            "Chinese Taipei"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.59,
+            "mean": 19.69,
+            "scores": {
+                "GO": 22,
+                "JA": 17,
+                "KJ": 17,
+                "NG": 17,
+                "PP": 17,
+                "MK": 20,
+                "YA": 20,
+                "MB": 18,
+                "SC": 23,
+                "AE": 19,
+                "JR": 19,
+                "RM": 19,
+                "EP": 21,
+                "KK": 21,
+                "WS": 21,
+                "KP": 24,
+                "DS": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.52,
+            "mean": 20.56,
+            "scores": {
+                "GO": 21,
+                "KK": 21,
+                "MB": 21,
+                "JA": 20,
+                "KP": 20,
+                "MK": 20,
+                "RM": 20,
+                "WS": 20,
+                "YA": 20,
+                "SC": 23,
+                "AE": 18,
+                "PP": 18,
+                "JR": 22,
+                "NG": 22,
+                "KJ": 19,
+                "EP": 24,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 6,
+        "name": "Chen, Kevin",
+        "birthday": "2005-03-07",
+        "country": [
+            "Canada"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 22.93,
+            "mean": 22.82,
+            "scores": {
+                "GO": 20,
+                "JA": 23,
+                "NG": 23,
+                "EP": 22,
+                "JR": 22,
+                "PP": 22,
+                "YA": 22,
+                "AE": 25,
+                "MB": 25,
+                "WS": 25,
+                "KJ": 24,
+                "KK": 24,
+                "MK": 24,
+                "RM": 24,
+                "SC": 24,
+                "DS": 18,
+                "KP": 21
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 22.41,
+            "mean": 22.24,
+            "scores": {
+                "EP": 20,
+                "GO": 20,
+                "JA": 22,
+                "JR": 22,
+                "PP": 22,
+                "RM": 22,
+                "AE": 23,
+                "MK": 23,
+                "NG": 23,
+                "YA": 23,
+                "KJ": 24,
+                "KK": 24,
+                "MB": 24,
+                "SC": 24,
+                "WS": 24,
+                "DS": 19,
+                "KP": 19
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 22.36,
+            "mean": 22.06,
+            "scores": {
+                "GO": 16,
+                "AE": 22,
+                "JA": 22,
+                "NG": 22,
+                "SC": 22,
+                "YA": 22,
+                "MB": 24,
+                "DS": 23,
+                "JR": 23,
+                "KK": 23,
+                "MK": 23,
+                "PP": 23,
+                "RM": 23,
+                "WS": 23,
+                "KJ": 25,
+                "EP": 18,
+                "KP": 21
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.58,
+            "mean": 21.65,
+            "scores": {
+                "AE": 19,
+                "GO": 19,
+                "JA": 24,
+                "KJ": 24,
+                "SC": 24,
+                "JR": 21,
+                "KK": 21,
+                "KP": 21,
+                "MK": 21,
+                "NG": 21,
+                "RM": 21,
+                "YA": 21,
+                "MB": 25,
+                "DS": 20,
+                "EP": 20,
+                "PP": 23,
+                "WS": 23
+            },
+            "result": 2
+        }
+    },
+    {
+        "no": 7,
+        "name": "Chen, Xuehong",
+        "birthday": "1999-12-12",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.4,
+            "mean": 20.41,
+            "scores": {
+                "GO": 19,
+                "JR": 19,
+                "KJ": 19,
+                "MB": 19,
+                "MK": 19,
+                "JA": 18,
+                "AE": 21,
+                "KP": 21,
+                "SC": 21,
+                "WS": 21,
+                "YA": 21,
+                "DS": 17,
+                "NG": 22,
+                "KK": 24,
+                "PP": 23,
+                "RM": 23,
+                "EP": 20
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.9,
+            "mean": 19.88,
+            "scores": {
+                "GO": 18,
+                "JR": 18,
+                "DS": 19,
+                "JA": 19,
+                "KJ": 19,
+                "NG": 19,
+                "SC": 21,
+                "WS": 21,
+                "YA": 21,
+                "KK": 20,
+                "MB": 20,
+                "AE": 23,
+                "EP": 17,
+                "MK": 17,
+                "KP": 22,
+                "PP": 22,
+                "RM": 22
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 8,
+        "name": "Chen, Zixi",
+        "birthday": "2002-09-17",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 20.25,
+            "mean": 20.24,
+            "scores": {
+                "GO": 23,
+                "KP": 23,
+                "YA": 23,
+                "DS": 18,
+                "JA": 18,
+                "MB": 18,
+                "EP": 21,
+                "MK": 21,
+                "NG": 21,
+                "SC": 21,
+                "AE": 20,
+                "KK": 20,
+                "PP": 20,
+                "KJ": 17,
+                "RM": 19,
+                "WS": 19,
+                "JR": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.29,
+            "mean": 19.24,
+            "scores": {
+                "GO": 22,
+                "MK": 22,
+                "NG": 22,
+                "EP": 16,
+                "JA": 16,
+                "KK": 21,
+                "MB": 21,
+                "RM": 21,
+                "SC": 21,
+                "YA": 21,
+                "DS": 17,
+                "JR": 17,
+                "PP": 17,
+                "AE": 18,
+                "KP": 18,
+                "WS": 18,
+                "KJ": 19
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 9,
+        "name": "Cheong, Hoi Leong",
+        "birthday": "2000-05-22",
+        "country": [
+            "China"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 19.39,
+            "mean": 19.19,
+            "scores": {
+                "AE": 22,
+                "EP": 22,
+                "GO": 22,
+                "KK": 22,
+                "KP": 22,
+                "SC": 22,
+                "JA": 13,
+                "PP": 19,
+                "YA": 19,
+                "KJ": 17,
+                "MB": 17,
+                "NG": 17,
+                "WS": 17,
+                "DS": 20,
+                "JR": 18,
+                "MK": 18,
+                "RM": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 10,
+        "name": "Cooper, Diana",
+        "birthday": "1997-07-21",
+        "country": [
+            "France"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.71,
+            "mean": 18.71,
+            "scores": {
+                "DS": 22,
+                "GO": 22,
+                "JA": 17,
+                "JR": 20,
+                "SC": 20,
+                "YA": 20,
+                "KP": 19,
+                "MB": 19,
+                "MK": 19,
+                "PP": 19,
+                "WS": 19,
+                "AE": 21,
+                "NG": 15,
+                "EP": 16,
+                "KJ": 16,
+                "RM": 16,
+                "KK": 18
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 11,
+        "name": "Deng, Athena",
+        "birthday": "2003-01-04",
+        "country": [
+            "Canada"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 17.8,
+            "mean": 17.94,
+            "scores": {
+                "AE": 23,
+                "GO": 23,
+                "JA": 13,
+                "YA": 20,
+                "EP": 17,
+                "KK": 17,
+                "MB": 17,
+                "MK": 17,
+                "WS": 17,
+                "SC": 19,
+                "KJ": 16,
+                "NG": 16,
+                "JR": 18,
+                "KP": 18,
+                "PP": 18,
+                "RM": 18,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 12,
+        "name": "Deng, Yubo",
+        "birthday": "2002-02-11",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.72,
+            "mean": 19.63,
+            "scores": {
+                "GO": 19,
+                "KK": 19,
+                "MK": 19,
+                "JA": 18,
+                "MB": 18,
+                "RM": 20,
+                "YA": 20,
+                "EP": 22,
+                "PP": 22,
+                "SC": 22,
+                "AE": 17,
+                "KP": 23,
+                "NG": 23,
+                "KJ": 16,
+                "JR": 21,
+                "WS": 15,
+                "DS": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.09,
+            "mean": 19.06,
+            "scores": {
+                "GO": 17,
+                "KK": 17,
+                "JA": 15,
+                "KP": 20,
+                "YA": 20,
+                "MB": 19,
+                "MK": 19,
+                "RM": 19,
+                "NG": 22,
+                "SC": 22,
+                "AE": 23,
+                "KJ": 18,
+                "EP": 21,
+                "PP": 21,
+                "JR": 16,
+                "WS": 16,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 13,
+        "name": "Dubiel, Mateusz",
+        "birthday": "2004-02-13",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.12,
+            "mean": 19.06,
+            "scores": {
+                "AE": 17,
+                "GO": 17,
+                "EP": 20,
+                "JA": 20,
+                "KP": 20,
+                "YA": 20,
+                "MB": 21,
+                "NG": 21,
+                "PP": 21,
+                "SC": 21,
+                "WS": 21,
+                "DS": 18,
+                "JR": 18,
+                "KJ": 15,
+                "KK": 19,
+                "MK": 19,
+                "RM": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 14,
+        "name": "Fan, Yu-Ang",
+        "birthday": "2005-04-08",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.71,
+            "mean": 17.82,
+            "scores": {
+                "GO": 12,
+                "JA": 15,
+                "JR": 15,
+                "KJ": 15,
+                "WS": 15,
+                "KP": 19,
+                "MB": 19,
+                "PP": 19,
+                "YA": 19,
+                "SC": 22,
+                "DS": 21,
+                "KK": 21,
+                "AE": 16,
+                "NG": 16,
+                "MK": 18,
+                "RM": 24,
+                "EP": 17
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 15,
+        "name": "Ferro, Alberto",
+        "birthday": "1996-03-01",
+        "country": [
+            "Italy"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 18.98,
+            "mean": 18.94,
+            "scores": {
+                "DS": 17,
+                "EP": 17,
+                "GO": 17,
+                "JA": 15,
+                "KK": 15,
+                "SC": 21,
+                "YA": 21,
+                "MB": 22,
+                "NG": 22,
+                "AE": 18,
+                "KJ": 18,
+                "PP": 18,
+                "MK": 23,
+                "JR": 19,
+                "RM": 19,
+                "KP": 20,
+                "WS": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 16,
+        "name": "Gao, Yang (Jack)",
+        "birthday": "2003-12-18",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 20.51,
+            "mean": 20.35,
+            "scores": {
+                "GO": 24,
+                "KP": 24,
+                "JA": 17,
+                "KK": 20,
+                "YA": 20,
+                "DS": 21,
+                "MB": 21,
+                "SC": 21,
+                "AE": 23,
+                "NG": 23,
+                "RM": 23,
+                "KJ": 15,
+                "EP": 19,
+                "MK": 19,
+                "PP": 18,
+                "JR": 22,
+                "WS": 16
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.18,
+            "mean": 21.0,
+            "scores": {
+                "GO": 25,
+                "JA": 17,
+                "KJ": 17,
+                "KK": 20,
+                "KP": 20,
+                "YA": 20,
+                "MB": 21,
+                "EP": 24,
+                "JR": 24,
+                "NG": 24,
+                "SC": 24,
+                "DS": 18,
+                "WS": 18,
+                "AE": 23,
+                "MK": 23,
+                "RM": 23,
+                "PP": 16
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.88,
+            "mean": 20.0,
+            "scores": {
+                "GO": 25,
+                "JR": 25,
+                "JA": 19,
+                "KK": 19,
+                "NG": 19,
+                "EP": 20,
+                "MB": 20,
+                "MK": 20,
+                "YA": 20,
+                "RM": 21,
+                "SC": 21,
+                "WS": 21,
+                "DS": 17,
+                "KJ": 17,
+                "AE": 16,
+                "PP": 18,
+                "KP": 22
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 17,
+        "name": "Gong, Shuguang",
+        "birthday": "1998-03-08",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.91,
+            "mean": 18.81,
+            "scores": {
+                "DS": 18,
+                "GO": 18,
+                "NG": 18,
+                "PP": 18,
+                "JA": 13,
+                "JR": 19,
+                "KJ": 19,
+                "MK": 19,
+                "YA": 19,
+                "MB": 17,
+                "AE": 21,
+                "RM": 21,
+                "SC": 21,
+                "WS": 21,
+                "EP": 16,
+                "KP": 23,
+                "KK": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 18,
+        "name": "Guo, Eric",
+        "birthday": "2002-08-01",
+        "country": [
+            "Canada"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 22.78,
+            "mean": 22.59,
+            "scores": {
+                "GO": 18,
+                "KJ": 18,
+                "AE": 22,
+                "DS": 22,
+                "JA": 22,
+                "KK": 22,
+                "RM": 22,
+                "SC": 22,
+                "MB": 24,
+                "PP": 24,
+                "YA": 24,
+                "JR": 25,
+                "MK": 25,
+                "NG": 25,
+                "EP": 23,
+                "KP": 23,
+                "WS": 23
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.32,
+            "mean": 20.41,
+            "scores": {
+                "AE": 18,
+                "DS": 18,
+                "GO": 18,
+                "KP": 18,
+                "JA": 19,
+                "WS": 19,
+                "JR": 22,
+                "NG": 22,
+                "YA": 22,
+                "MB": 24,
+                "MK": 24,
+                "EP": 21,
+                "RM": 21,
+                "SC": 21,
+                "KJ": 20,
+                "KK": 20,
+                "PP": 20
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.54,
+            "mean": 19.71,
+            "scores": {
+                "EP": 17,
+                "GO": 17,
+                "DS": 18,
+                "JA": 18,
+                "KJ": 18,
+                "KP": 18,
+                "NG": 21,
+                "YA": 21,
+                "MB": 23,
+                "KK": 19,
+                "PP": 19,
+                "RM": 19,
+                "SC": 19,
+                "AE": 22,
+                "JR": 22,
+                "MK": 24,
+                "WS": 20
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 19,
+        "name": "Hsieh, Wei-Ting",
+        "birthday": "1996-07-05",
+        "country": [
+            "Chinese Taipei"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.02,
+            "mean": 18.88,
+            "scores": {
+                "GO": 14,
+                "KJ": 14,
+                "JA": 21,
+                "JR": 21,
+                "MB": 21,
+                "MK": 21,
+                "SC": 21,
+                "YA": 24,
+                "DS": 17,
+                "NG": 17,
+                "PP": 17,
+                "AE": 22,
+                "KK": 19,
+                "KP": 19,
+                "RM": 18,
+                "EP": 15,
+                "WS": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 20,
+        "name": "Hu, Xiaoyu",
+        "birthday": "2005-04-22",
+        "country": [
+            "China"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 19.6,
+            "mean": 19.65,
+            "scores": {
+                "DS": 24,
+                "EP": 24,
+                "GO": 24,
+                "KP": 24,
+                "JA": 13,
+                "YA": 25,
+                "MB": 17,
+                "SC": 21,
+                "AE": 23,
+                "NG": 16,
+                "RM": 16,
+                "WS": 16,
+                "KJ": 15,
+                "KK": 20,
+                "MK": 19,
+                "PP": 19,
+                "JR": 18
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 18.81,
+            "mean": 18.94,
+            "scores": {
+                "GO": 20,
+                "JA": 20,
+                "KK": 20,
+                "PP": 20,
+                "RM": 20,
+                "EP": 22,
+                "YA": 22,
+                "DS": 18,
+                "KP": 18,
+                "MB": 18,
+                "MK": 18,
+                "SC": 21,
+                "AE": 17,
+                "JR": 17,
+                "KJ": 17,
+                "NG": 17,
+                "WS": 17
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 21,
+        "name": "Ignatov, Hasan",
+        "birthday": "2003-12-15",
+        "country": [
+            "Bulgaria"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.51,
+            "mean": 18.53,
+            "scores": {
+                "GO": 18,
+                "PP": 18,
+                "JA": 16,
+                "KK": 16,
+                "MB": 16,
+                "RM": 16,
+                "SC": 22,
+                "YA": 22,
+                "DS": 17,
+                "AE": 21,
+                "NG": 21,
+                "KJ": 15,
+                "KP": 19,
+                "MK": 19,
+                "WS": 19,
+                "EP": 20,
+                "JR": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 22,
+        "name": "Jin, Zihan",
+        "birthday": "2009-03-06",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 20.53,
+            "mean": 20.53,
+            "scores": {
+                "GO": 22,
+                "RM": 22,
+                "EP": 21,
+                "JA": 21,
+                "KJ": 21,
+                "NG": 21,
+                "SC": 21,
+                "KK": 23,
+                "YA": 23,
+                "AE": 20,
+                "DS": 20,
+                "MB": 20,
+                "WS": 20,
+                "JR": 19,
+                "MK": 19,
+                "KP": 18,
+                "PP": 18
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.14,
+            "mean": 19.06,
+            "scores": {
+                "GO": 21,
+                "KJ": 21,
+                "NG": 21,
+                "RM": 21,
+                "JA": 22,
+                "KK": 22,
+                "DS": 20,
+                "SC": 20,
+                "YA": 20,
+                "EP": 18,
+                "JR": 18,
+                "MB": 18,
+                "AE": 17,
+                "WS": 17,
+                "KP": 16,
+                "MK": 16,
+                "PP": 16
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 23,
+        "name": "Kałduński, Adam",
+        "birthday": "1996-07-31",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 21.44,
+            "mean": 21.0,
+            "scores": {
+                "GO": 22,
+                "JA": 15,
+                "KJ": 15,
+                "YA": 24,
+                "JR": 23,
+                "MB": 23,
+                "MK": 23,
+                "PP": 23,
+                "SC": 23,
+                "DS": 21,
+                "KK": 21,
+                "NG": 21,
+                "WS": 21,
+                "AE": 25,
+                "RM": 20,
+                "EP": 16,
+                "KP": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.72,
+            "mean": 19.63,
+            "scores": {
+                "GO": 21,
+                "MB": 21,
+                "PP": 21,
+                "RM": 21,
+                "JA": 16,
+                "JR": 22,
+                "YA": 22,
+                "AE": 20,
+                "MK": 20,
+                "NG": 20,
+                "SC": 20,
+                "DS": 18,
+                "EP": 18,
+                "KK": 18,
+                "KJ": 17,
+                "WS": 19,
+                "KP": null
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 24,
+        "name": "Khrikuli, David",
+        "birthday": "2001-04-26",
+        "country": [
+            "Georgia"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.52,
+            "mean": 20.29,
+            "scores": {
+                "GO": 18,
+                "PP": 18,
+                "JA": 21,
+                "JR": 23,
+                "MB": 23,
+                "MK": 23,
+                "SC": 23,
+                "YA": 23,
+                "DS": 24,
+                "AE": 22,
+                "KK": 19,
+                "NG": 19,
+                "RM": 19,
+                "EP": 15,
+                "KJ": 15,
+                "KP": 20,
+                "WS": 20
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.35,
+            "mean": 21.0,
+            "scores": {
+                "GO": 17,
+                "JA": 24,
+                "JR": 24,
+                "MB": 24,
+                "NG": 24,
+                "AE": 23,
+                "KK": 23,
+                "MK": 23,
+                "SC": 23,
+                "YA": 23,
+                "DS": 22,
+                "KJ": 19,
+                "KP": 19,
+                "PP": 19,
+                "RM": 18,
+                "EP": 12,
+                "WS": 20
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.77,
+            "mean": 20.59,
+            "scores": {
+                "GO": 18,
+                "JA": 24,
+                "MB": 24,
+                "NG": 24,
+                "MK": 22,
+                "SC": 22,
+                "YA": 22,
+                "DS": 20,
+                "KK": 20,
+                "RM": 20,
+                "WS": 20,
+                "AE": 16,
+                "KJ": 21,
+                "PP": 21,
+                "EP": 14,
+                "KP": 19,
+                "JR": 23
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 20.72,
+            "mean": 20.65,
+            "scores": {
+                "EP": 17,
+                "GO": 17,
+                "YA": 17,
+                "JA": 25,
+                "KJ": 21,
+                "MB": 21,
+                "AE": 20,
+                "RM": 20,
+                "SC": 20,
+                "DS": 23,
+                "KK": 23,
+                "NG": 24,
+                "JR": 22,
+                "MK": 22,
+                "PP": 22,
+                "KP": 18,
+                "WS": 19
+            },
+            "result": false
+        }
+    },
+    {
+        "no": 25,
+        "name": "Kłeczek, Antoni",
+        "birthday": "2006-10-30",
+        "country": [
+            "United States"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.64,
+            "mean": 17.53,
+            "scores": {
+                "GO": 20,
+                "KJ": 20,
+                "NG": 20,
+                "JA": 14,
+                "AE": 18,
+                "KP": 18,
+                "YA": 18,
+                "DS": 16,
+                "MB": 16,
+                "WS": 16,
+                "SC": 21,
+                "KK": 15,
+                "MK": 19,
+                "RM": 19,
+                "JR": 13,
+                "EP": null,
+                "PP": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 26,
+        "name": "Kobayashi, Kaito",
+        "birthday": "1995-10-13",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 18.96,
+            "mean": 18.76,
+            "scores": {
+                "GO": 21,
+                "MB": 21,
+                "SC": 21,
+                "AE": 20,
+                "EP": 20,
+                "JA": 20,
+                "YA": 20,
+                "DS": 18,
+                "PP": 18,
+                "NG": 19,
+                "KJ": 12,
+                "JR": 16,
+                "KK": 16,
+                "WS": 16,
+                "MK": 22,
+                "RM": 22,
+                "KP": 17
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 27,
+        "name": "Krzyżowski, Mateusz",
+        "birthday": "1999-03-06",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 19.03,
+            "mean": 18.94,
+            "scores": {
+                "AE": 22,
+                "GO": 22,
+                "SC": 22,
+                "YA": 22,
+                "JA": 13,
+                "MB": 19,
+                "WS": 19,
+                "DS": 23,
+                "PP": 23,
+                "EP": 18,
+                "NG": 18,
+                "KJ": 15,
+                "KK": 17,
+                "MK": 17,
+                "JR": 16,
+                "RM": 16,
+                "KP": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 28,
+        "name": "Kuwahara, Shiori",
+        "birthday": "1995-10-11",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 22.03,
+            "mean": 21.71,
+            "scores": {
+                "DS": 22,
+                "GO": 22,
+                "PP": 22,
+                "JA": 16,
+                "KJ": 16,
+                "NG": 25,
+                "YA": 25,
+                "EP": 24,
+                "MB": 24,
+                "SC": 24,
+                "AE": 23,
+                "KP": 23,
+                "MK": 23,
+                "KK": 21,
+                "WS": 21,
+                "RM": 20,
+                "JR": 18
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.28,
+            "mean": 21.12,
+            "scores": {
+                "GO": 21,
+                "JR": 21,
+                "JA": 20,
+                "WS": 20,
+                "KP": 22,
+                "NG": 22,
+                "PP": 22,
+                "YA": 22,
+                "EP": 24,
+                "MB": 24,
+                "AE": 23,
+                "MK": 23,
+                "SC": 23,
+                "DS": 19,
+                "KJ": 19,
+                "KK": 18,
+                "RM": 16
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 21.36,
+            "mean": 21.24,
+            "scores": {
+                "GO": 18,
+                "AE": 21,
+                "JA": 21,
+                "JR": 21,
+                "EP": 22,
+                "RM": 22,
+                "SC": 22,
+                "WS": 22,
+                "YA": 22,
+                "MB": 24,
+                "NG": 24,
+                "DS": 19,
+                "KJ": 20,
+                "PP": 20,
+                "KK": 17,
+                "KP": 23,
+                "MK": 23
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.04,
+            "mean": 20.82,
+            "scores": {
+                "DS": 19,
+                "GO": 19,
+                "AE": 21,
+                "EP": 21,
+                "JA": 21,
+                "KJ": 21,
+                "PP": 21,
+                "WS": 21,
+                "KK": 16,
+                "YA": 16,
+                "JR": 23,
+                "KP": 23,
+                "MB": 23,
+                "RM": 23,
+                "SC": 20,
+                "NG": 22,
+                "MK": 24
+            },
+            "result": 4
+        }
+    },
+    {
+        "no": 29,
+        "name": "Kyomasu, Shushi",
+        "birthday": "1996-06-04",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 19.3,
+            "mean": 19.35,
+            "scores": {
+                "GO": 24,
+                "JA": 15,
+                "AE": 19,
+                "KK": 19,
+                "MB": 19,
+                "NG": 19,
+                "YA": 19,
+                "EP": 20,
+                "SC": 20,
+                "WS": 20,
+                "DS": 17,
+                "JR": 17,
+                "KJ": 21,
+                "MK": 21,
+                "PP": 18,
+                "RM": 18,
+                "KP": 23
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 30,
+        "name": "Lee, Hyo",
+        "birthday": "2007-01-05",
+        "country": [
+            "South Korea"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 21.13,
+            "mean": 21.06,
+            "scores": {
+                "GO": 23,
+                "PP": 23,
+                "RM": 23,
+                "JA": 20,
+                "KJ": 20,
+                "NG": 20,
+                "WS": 20,
+                "MK": 21,
+                "SC": 21,
+                "YA": 21,
+                "AE": 24,
+                "MB": 24,
+                "DS": 17,
+                "KK": 19,
+                "KP": 19,
+                "JR": 22,
+                "EP": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.79,
+            "mean": 20.81,
+            "scores": {
+                "GO": 22,
+                "JA": 22,
+                "WS": 22,
+                "YA": 22,
+                "KJ": 20,
+                "KK": 20,
+                "MB": 20,
+                "MK": 20,
+                "NG": 20,
+                "RM": 20,
+                "SC": 20,
+                "DS": 21,
+                "AE": 23,
+                "PP": 23,
+                "JR": 19,
+                "KP": 19,
+                "EP": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.79,
+            "mean": 20.81,
+            "scores": {
+                "DS": 21,
+                "GO": 21,
+                "MB": 21,
+                "RM": 21,
+                "WS": 21,
+                "JA": 20,
+                "KP": 20,
+                "MK": 20,
+                "KK": 22,
+                "NG": 22,
+                "PP": 22,
+                "YA": 22,
+                "JR": 19,
+                "SC": 19,
+                "AE": 24,
+                "KJ": 18,
+                "EP": null
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 31,
+        "name": "Lee, Hyuk",
+        "birthday": "2000-01-04",
+        "country": [
+            "South Korea"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.13,
+            "mean": 21.06,
+            "scores": {
+                "GO": 20,
+                "KP": 20,
+                "YA": 20,
+                "JA": 21,
+                "RM": 21,
+                "SC": 21,
+                "WS": 21,
+                "MB": 25,
+                "DS": 16,
+                "AE": 22,
+                "KJ": 22,
+                "KK": 22,
+                "MK": 22,
+                "PP": 22,
+                "NG": 19,
+                "JR": 23,
+                "EP": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.79,
+            "mean": 20.88,
+            "scores": {
+                "GO": 17,
+                "DS": 20,
+                "JA": 20,
+                "NG": 20,
+                "SC": 20,
+                "YA": 20,
+                "MB": 25,
+                "AE": 22,
+                "PP": 22,
+                "JR": 21,
+                "KJ": 21,
+                "KK": 21,
+                "KP": 21,
+                "WS": 21,
+                "MK": 19,
+                "RM": 24,
+                "EP": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.03,
+            "mean": 20.13,
+            "scores": {
+                "GO": 17,
+                "JA": 18,
+                "DS": 20,
+                "KJ": 20,
+                "KP": 20,
+                "MK": 20,
+                "SC": 20,
+                "YA": 20,
+                "MB": 24,
+                "AE": 23,
+                "NG": 21,
+                "PP": 21,
+                "WS": 21,
+                "JR": 19,
+                "KK": 19,
+                "RM": 19,
+                "EP": null
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 32,
+        "name": "Lee, Kwanwook",
+        "birthday": "1996-08-11",
+        "country": [
+            "South Korea"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 19.87,
+            "mean": 19.88,
+            "scores": {
+                "GO": 19,
+                "JR": 19,
+                "MK": 19,
+                "RM": 19,
+                "JA": 18,
+                "KP": 18,
+                "NG": 18,
+                "PP": 18,
+                "DS": 21,
+                "EP": 21,
+                "KK": 21,
+                "SC": 21,
+                "YA": 21,
+                "KJ": 23,
+                "MB": 23,
+                "AE": 22,
+                "WS": 17
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 18.72,
+            "mean": 18.82,
+            "scores": {
+                "DS": 21,
+                "GO": 21,
+                "KK": 21,
+                "EP": 17,
+                "JA": 17,
+                "JR": 17,
+                "MK": 17,
+                "WS": 17,
+                "AE": 20,
+                "MB": 20,
+                "YA": 20,
+                "SC": 22,
+                "KJ": 18,
+                "KP": 18,
+                "NG": 18,
+                "PP": 18,
+                "RM": 18
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 33,
+        "name": "Li, Luwangzi",
+        "birthday": "2007-10-26",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 19.03,
+            "mean": 19.12,
+            "scores": {
+                "GO": 19,
+                "KJ": 19,
+                "PP": 19,
+                "YA": 19,
+                "EP": 17,
+                "JA": 17,
+                "NG": 17,
+                "WS": 17,
+                "MB": 21,
+                "SC": 24,
+                "DS": 15,
+                "AE": 20,
+                "KK": 22,
+                "KP": 22,
+                "MK": 18,
+                "RM": 23,
+                "JR": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 34,
+        "name": "Li, Tianyou",
+        "birthday": "2004-04-05",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.69,
+            "mean": 19.76,
+            "scores": {
+                "AE": 21,
+                "GO": 21,
+                "JA": 18,
+                "KJ": 18,
+                "NG": 18,
+                "PP": 18,
+                "RM": 18,
+                "JR": 20,
+                "MB": 20,
+                "MK": 20,
+                "YA": 20,
+                "SC": 24,
+                "DS": 17,
+                "WS": 17,
+                "EP": 22,
+                "KK": 22,
+                "KP": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.86,
+            "mean": 21.71,
+            "scores": {
+                "AE": 23,
+                "GO": 23,
+                "JR": 23,
+                "KK": 23,
+                "NG": 23,
+                "YA": 23,
+                "JA": 20,
+                "KP": 20,
+                "MB": 21,
+                "KJ": 24,
+                "SC": 24,
+                "DS": 18,
+                "MK": 19,
+                "PP": 19,
+                "EP": 22,
+                "RM": 22,
+                "WS": 22
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 21.98,
+            "mean": 21.94,
+            "scores": {
+                "AE": 22,
+                "GO": 22,
+                "KK": 22,
+                "KP": 22,
+                "MB": 22,
+                "WS": 22,
+                "JA": 24,
+                "JR": 24,
+                "NG": 24,
+                "SC": 24,
+                "YA": 23,
+                "DS": 19,
+                "EP": 21,
+                "KJ": 21,
+                "PP": 21,
+                "MK": 20,
+                "RM": 20
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 19.09,
+            "mean": 19.18,
+            "scores": {
+                "GO": 18,
+                "KK": 18,
+                "PP": 18,
+                "YA": 18,
+                "JA": 21,
+                "MB": 21,
+                "SC": 24,
+                "DS": 19,
+                "KJ": 19,
+                "KP": 19,
+                "NG": 19,
+                "RM": 19,
+                "AE": 17,
+                "JR": 20,
+                "MK": 20,
+                "WS": 20,
+                "EP": 16
+            },
+            "result": false
+        }
+    },
+    {
+        "no": 35,
+        "name": "Li, Xiaoxuan",
+        "birthday": "2001-12-21",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.88,
+            "mean": 20.69,
+            "scores": {
+                "GO": 15,
+                "JA": 19,
+                "KP": 19,
+                "MK": 20,
+                "WS": 20,
+                "YA": 20,
+                "KJ": 17,
+                "MB": 17,
+                "EP": 24,
+                "JR": 24,
+                "SC": 24,
+                "DS": 21,
+                "AE": 23,
+                "KK": 23,
+                "PP": 23,
+                "NG": 22,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.3,
+            "mean": 20.25,
+            "scores": {
+                "GO": 22,
+                "PP": 22,
+                "DS": 18,
+                "JA": 18,
+                "MK": 18,
+                "AE": 21,
+                "WS": 21,
+                "YA": 21,
+                "EP": 23,
+                "KK": 23,
+                "MB": 23,
+                "NG": 20,
+                "SC": 20,
+                "KJ": 16,
+                "JR": 19,
+                "KP": 19,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.85,
+            "mean": 19.88,
+            "scores": {
+                "EP": 22,
+                "GO": 22,
+                "KK": 22,
+                "JA": 19,
+                "KP": 19,
+                "MB": 19,
+                "SC": 19,
+                "WS": 19,
+                "AE": 20,
+                "KJ": 20,
+                "MK": 20,
+                "NG": 20,
+                "YA": 20,
+                "DS": 18,
+                "JR": 18,
+                "PP": 21,
+                "RM": null
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 36,
+        "name": "Li, Zhexiang",
+        "birthday": "2005-12-28",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.89,
+            "mean": 19.82,
+            "scores": {
+                "EP": 19,
+                "GO": 19,
+                "JA": 19,
+                "KJ": 19,
+                "KK": 21,
+                "MK": 21,
+                "RM": 21,
+                "WS": 21,
+                "YA": 21,
+                "MB": 17,
+                "SC": 20,
+                "AE": 23,
+                "DS": 23,
+                "NG": 15,
+                "PP": 24,
+                "KP": 16,
+                "JR": 18
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.08,
+            "mean": 19.24,
+            "scores": {
+                "GO": 19,
+                "JR": 19,
+                "KK": 19,
+                "PP": 19,
+                "DS": 22,
+                "JA": 22,
+                "AE": 23,
+                "YA": 23,
+                "MB": 21,
+                "SC": 21,
+                "KJ": 17,
+                "KP": 17,
+                "MK": 17,
+                "NG": 17,
+                "RM": 17,
+                "EP": 16,
+                "WS": 18
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 37,
+        "name": "Lin, Hao-Wei",
+        "birthday": "2004-09-15",
+        "country": [
+            "Chinese Taipei"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.22,
+            "mean": 16.94,
+            "scores": {
+                "GO": 10,
+                "JA": 10,
+                "AE": 19,
+                "EP": 19,
+                "MK": 19,
+                "YA": 19,
+                "MB": 22,
+                "SC": 21,
+                "DS": 17,
+                "KJ": 17,
+                "KP": 17,
+                "PP": 17,
+                "NG": 14,
+                "JR": 18,
+                "KK": 18,
+                "RM": 16,
+                "WS": 15
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 38,
+        "name": "López Salas, Pedro",
+        "birthday": "1997-10-09",
+        "country": [
+            "Spain"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 15.33,
+            "mean": 15.24,
+            "scores": {
+                "GO": 8,
+                "JA": 9,
+                "YA": 22,
+                "AE": 16,
+                "EP": 16,
+                "KJ": 16,
+                "MB": 16,
+                "RM": 16,
+                "SC": 20,
+                "DS": 14,
+                "NG": 12,
+                "WS": 12,
+                "KK": 19,
+                "MK": 18,
+                "PP": 17,
+                "KP": 15,
+                "JR": 13
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 39,
+        "name": "Lu, Eric",
+        "birthday": "1997-12-15",
+        "country": [
+            "United States"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 21.82,
+            "mean": 21.67,
+            "scores": {
+                "AE": 22,
+                "EP": 22,
+                "GO": 22,
+                "JR": 22,
+                "JA": 19,
+                "SC": 23,
+                "WS": 23,
+                "YA": 23,
+                "MB": 24,
+                "MK": 24,
+                "PP": 24,
+                "KK": 21,
+                "NG": 21,
+                "KJ": 17,
+                "KP": 18,
+                "DS": null,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 23.03,
+            "mean": 22.87,
+            "scores": {
+                "AE": 24,
+                "GO": 24,
+                "MB": 24,
+                "MK": 24,
+                "JA": 23,
+                "YA": 21,
+                "KK": 22,
+                "KP": 22,
+                "PP": 22,
+                "SC": 22,
+                "WS": 22,
+                "EP": 25,
+                "JR": 25,
+                "NG": 25,
+                "KJ": 18,
+                "DS": null,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 23.29,
+            "mean": 23.2,
+            "scores": {
+                "GO": 23,
+                "KP": 23,
+                "MB": 23,
+                "EP": 24,
+                "JA": 24,
+                "JR": 24,
+                "KK": 24,
+                "MK": 24,
+                "WS": 24,
+                "YA": 20,
+                "PP": 22,
+                "SC": 22,
+                "AE": 25,
+                "NG": 25,
+                "KJ": 21,
+                "DS": null,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.41,
+            "mean": 21.53,
+            "scores": {
+                "AE": 20,
+                "GO": 20,
+                "KJ": 20,
+                "SC": 20,
+                "WS": 20,
+                "EP": 22,
+                "JA": 22,
+                "PP": 22,
+                "YA": 19,
+                "MB": 25,
+                "JR": 24,
+                "NG": 24,
+                "KK": 21,
+                "KP": 21,
+                "MK": 23,
+                "DS": null,
+                "RM": null
+            },
+            "result": 1
+        }
+    },
+    {
+        "no": 40,
+        "name": "Lynov, Philipp",
+        "birthday": "1999-01-06",
+        "country": [
+            "INP"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.0,
+            "mean": 21.0,
+            "scores": {
+                "DS": 20,
+                "GO": 20,
+                "JA": 20,
+                "KJ": 20,
+                "MB": 20,
+                "AE": 23,
+                "NG": 23,
+                "SC": 23,
+                "YA": 23,
+                "KK": 21,
+                "MK": 24,
+                "JR": 19,
+                "KP": 19,
+                "RM": 19,
+                "WS": 19,
+                "EP": 22,
+                "PP": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 18.71,
+            "mean": 19.0,
+            "scores": {
+                "GO": 19,
+                "JA": 22,
+                "YA": 22,
+                "DS": 18,
+                "KJ": 18,
+                "MB": 18,
+                "PP": 18,
+                "WS": 18,
+                "SC": 21,
+                "AE": 17,
+                "EP": 17,
+                "KK": 17,
+                "KP": 17,
+                "RM": 17,
+                "JR": 20,
+                "NG": 20,
+                "MK": 24
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 41,
+        "name": "Lyu, Tianyao",
+        "birthday": "2008-10-21",
+        "country": [
+            "China"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 22.06,
+            "mean": 21.88,
+            "scores": {
+                "GO": 20,
+                "JA": 16,
+                "AE": 23,
+                "DS": 23,
+                "KK": 23,
+                "RM": 23,
+                "WS": 23,
+                "YA": 23,
+                "MB": 22,
+                "MK": 22,
+                "SC": 22,
+                "JR": 19,
+                "NG": 19,
+                "EP": 24,
+                "KJ": 24,
+                "PP": 24,
+                "KP": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.78,
+            "mean": 20.88,
+            "scores": {
+                "GO": 19,
+                "JA": 17,
+                "DS": 20,
+                "JR": 20,
+                "MK": 20,
+                "RM": 20,
+                "YA": 20,
+                "EP": 24,
+                "MB": 24,
+                "KK": 21,
+                "NG": 21,
+                "SC": 21,
+                "AE": 22,
+                "WS": 22,
+                "KJ": 18,
+                "PP": 25,
+                "KP": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 21.43,
+            "mean": 21.31,
+            "scores": {
+                "DS": 19,
+                "GO": 19,
+                "JA": 21,
+                "MB": 21,
+                "YA": 21,
+                "JR": 20,
+                "SC": 20,
+                "AE": 18,
+                "EP": 23,
+                "KK": 23,
+                "MK": 23,
+                "NG": 23,
+                "PP": 23,
+                "WS": 23,
+                "KJ": 22,
+                "RM": 22,
+                "KP": null
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.25,
+            "mean": 21.13,
+            "scores": {
+                "GO": 17,
+                "YA": 17,
+                "DS": 20,
+                "JA": 20,
+                "MK": 20,
+                "MB": 22,
+                "WS": 22,
+                "SC": 18,
+                "AE": 23,
+                "NG": 23,
+                "EP": 24,
+                "KJ": 24,
+                "KK": 24,
+                "PP": 24,
+                "RM": 21,
+                "JR": 19,
+                "KP": null
+            },
+            "result": 4
+        }
+    },
+    {
+        "no": 42,
+        "name": "Ma, Tiankun",
+        "birthday": "2007-05-26",
+        "country": [
+            "China"
+        ],
+        "piano": "Bechstein",
+        "stage1": {
+            "cmean": 19.45,
+            "mean": 19.65,
+            "scores": {
+                "DS": 19,
+                "GO": 19,
+                "KP": 19,
+                "AE": 18,
+                "EP": 18,
+                "JA": 18,
+                "PP": 18,
+                "WS": 18,
+                "YA": 24,
+                "MB": 25,
+                "SC": 22,
+                "KK": 20,
+                "NG": 20,
+                "RM": 20,
+                "KJ": 17,
+                "MK": 23,
+                "JR": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 43,
+        "name": "Mao, Xuanyi",
+        "birthday": "1995-11-27",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.56,
+            "mean": 18.76,
+            "scores": {
+                "GO": 23,
+                "JA": 20,
+                "PP": 20,
+                "SC": 20,
+                "MB": 24,
+                "YA": 24,
+                "DS": 17,
+                "MK": 17,
+                "AE": 21,
+                "KJ": 18,
+                "KK": 18,
+                "NG": 18,
+                "RM": 18,
+                "EP": 15,
+                "JR": 15,
+                "KP": 15,
+                "WS": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 44,
+        "name": "Micieli, Ruben",
+        "birthday": "1997-02-01",
+        "country": [
+            "Italy"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.61,
+            "mean": 20.47,
+            "scores": {
+                "AE": 23,
+                "DS": 23,
+                "GO": 23,
+                "JA": 17,
+                "YA": 22,
+                "JR": 21,
+                "KP": 21,
+                "MB": 21,
+                "PP": 21,
+                "RM": 21,
+                "SC": 24,
+                "KJ": 19,
+                "MK": 19,
+                "NG": 19,
+                "WS": 19,
+                "KK": 20,
+                "EP": 15
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.12,
+            "mean": 19.12,
+            "scores": {
+                "GO": 23,
+                "YA": 23,
+                "AE": 17,
+                "JA": 17,
+                "RM": 17,
+                "WS": 17,
+                "MB": 21,
+                "MK": 21,
+                "NG": 21,
+                "SC": 21,
+                "DS": 18,
+                "KJ": 19,
+                "KK": 19,
+                "JR": 20,
+                "PP": 20,
+                "EP": 15,
+                "KP": 16
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 45,
+        "name": "Milstein, Nathalia",
+        "birthday": "1995-06-04",
+        "country": [
+            "France"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.26,
+            "mean": 21.12,
+            "scores": {
+                "AE": 24,
+                "GO": 24,
+                "JR": 24,
+                "JA": 21,
+                "KP": 21,
+                "RM": 21,
+                "MB": 22,
+                "YA": 22,
+                "MK": 23,
+                "SC": 23,
+                "DS": 18,
+                "NG": 25,
+                "KJ": 16,
+                "KK": 17,
+                "EP": 19,
+                "PP": 19,
+                "WS": 20
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.26,
+            "mean": 19.06,
+            "scores": {
+                "GO": 21,
+                "JA": 21,
+                "JR": 21,
+                "KK": 21,
+                "NG": 21,
+                "AE": 20,
+                "RM": 20,
+                "SC": 20,
+                "YA": 20,
+                "MB": 22,
+                "DS": 17,
+                "PP": 17,
+                "WS": 17,
+                "KJ": 16,
+                "KP": 16,
+                "MK": 19,
+                "EP": 15
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 46,
+        "name": "Nakagawa, Yumeka",
+        "birthday": "2001-10-12",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 19.78,
+            "mean": 19.82,
+            "scores": {
+                "DS": 17,
+                "GO": 17,
+                "KJ": 17,
+                "NG": 17,
+                "JA": 16,
+                "KP": 21,
+                "YA": 21,
+                "EP": 22,
+                "MB": 22,
+                "MK": 22,
+                "AE": 23,
+                "SC": 23,
+                "KK": 19,
+                "RM": 24,
+                "PP": 20,
+                "JR": 18,
+                "WS": 18
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.98,
+            "mean": 19.94,
+            "scores": {
+                "GO": 17,
+                "KJ": 17,
+                "JA": 21,
+                "NG": 21,
+                "SC": 21,
+                "MK": 20,
+                "RM": 20,
+                "YA": 20,
+                "DS": 23,
+                "MB": 23,
+                "AE": 24,
+                "KK": 22,
+                "EP": 19,
+                "JR": 19,
+                "PP": 19,
+                "KP": 15,
+                "WS": 18
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 47,
+        "name": "Nakashima, Yulia",
+        "birthday": "2009-12-18",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Bechstein",
+        "stage1": {
+            "cmean": 17.56,
+            "mean": 17.53,
+            "scores": {
+                "DS": 17,
+                "GO": 17,
+                "MB": 17,
+                "JA": 18,
+                "KP": 18,
+                "PP": 18,
+                "WS": 18,
+                "MK": 20,
+                "SC": 20,
+                "YA": 20,
+                "AE": 19,
+                "RM": 19,
+                "JR": 16,
+                "KJ": 16,
+                "NG": 16,
+                "KK": 15,
+                "EP": 14
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 48,
+        "name": "Nguyen, Viet Trung",
+        "birthday": "1996-09-30",
+        "country": [
+            "Vietnam"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 19.37,
+            "mean": 19.21,
+            "scores": {
+                "GO": 17,
+                "WS": 17,
+                "EP": 20,
+                "JA": 20,
+                "JR": 20,
+                "KJ": 20,
+                "RM": 22,
+                "YA": 22,
+                "AE": 18,
+                "MB": 18,
+                "MK": 21,
+                "SC": 21,
+                "NG": 14,
+                "PP": 19,
+                "DS": null,
+                "KK": null,
+                "KP": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 49,
+        "name": "Nishimoto, Yuya",
+        "birthday": "2002-07-19",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.84,
+            "mean": 18.81,
+            "scores": {
+                "GO": 18,
+                "KP": 18,
+                "DS": 16,
+                "EP": 16,
+                "JA": 16,
+                "KK": 16,
+                "JR": 21,
+                "SC": 21,
+                "YA": 21,
+                "KJ": 20,
+                "MB": 20,
+                "RM": 20,
+                "AE": 19,
+                "NG": 13,
+                "MK": 24,
+                "PP": 22,
+                "WS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 50,
+        "name": "Ong, Vincent",
+        "birthday": "2001-04-12",
+        "country": [
+            "Malaysia"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 22.07,
+            "mean": 21.53,
+            "scores": {
+                "GO": 21,
+                "WS": 21,
+                "JA": 11,
+                "KP": 22,
+                "YA": 22,
+                "MB": 19,
+                "DS": 24,
+                "KJ": 24,
+                "MK": 24,
+                "NG": 24,
+                "RM": 24,
+                "SC": 24,
+                "AE": 23,
+                "EP": 23,
+                "KK": 25,
+                "PP": 18,
+                "JR": 17
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.23,
+            "mean": 21.12,
+            "scores": {
+                "GO": 17,
+                "JA": 16,
+                "PP": 20,
+                "WS": 20,
+                "YA": 20,
+                "MB": 19,
+                "AE": 23,
+                "JR": 23,
+                "SC": 23,
+                "DS": 24,
+                "EP": 24,
+                "NG": 24,
+                "KJ": 18,
+                "KK": 21,
+                "KP": 21,
+                "RM": 21,
+                "MK": 25
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.55,
+            "mean": 20.47,
+            "scores": {
+                "GO": 17,
+                "RM": 17,
+                "JA": 18,
+                "EP": 20,
+                "JR": 20,
+                "PP": 20,
+                "YA": 20,
+                "KJ": 21,
+                "KP": 21,
+                "MB": 21,
+                "SC": 21,
+                "AE": 22,
+                "DS": 22,
+                "KK": 22,
+                "NG": 23,
+                "MK": 24,
+                "WS": 19
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 21.04,
+            "mean": 21.06,
+            "scores": {
+                "GO": 19,
+                "WS": 19,
+                "JA": 18,
+                "PP": 18,
+                "YA": 18,
+                "AE": 22,
+                "MB": 22,
+                "DS": 24,
+                "SC": 24,
+                "MK": 25,
+                "NG": 25,
+                "JR": 23,
+                "KJ": 23,
+                "KK": 20,
+                "RM": 20,
+                "EP": 21,
+                "KP": 17
+            },
+            "result": 5
+        }
+    },
+    {
+        "no": 51,
+        "name": "Onoda, Arisa",
+        "birthday": "1996-01-16",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.63,
+            "mean": 17.5,
+            "scores": {
+                "GO": 17,
+                "MB": 17,
+                "WS": 17,
+                "JA": 14,
+                "KJ": 14,
+                "EP": 18,
+                "PP": 18,
+                "YA": 18,
+                "SC": 21,
+                "AE": 20,
+                "KK": 20,
+                "NG": 13,
+                "JR": 19,
+                "MK": 19,
+                "RM": 19,
+                "KP": 16,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 52,
+        "name": "Pawlak, Piotr",
+        "birthday": "1998-02-20",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 20.92,
+            "mean": 20.59,
+            "scores": {
+                "AE": 24,
+                "GO": 24,
+                "JA": 24,
+                "JR": 24,
+                "YA": 25,
+                "MB": 22,
+                "SC": 21,
+                "DS": 17,
+                "EP": 19,
+                "KP": 19,
+                "NG": 19,
+                "WS": 19,
+                "KJ": 12,
+                "KK": 15,
+                "MK": 20,
+                "PP": 23,
+                "RM": 23
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.59,
+            "mean": 20.59,
+            "scores": {
+                "GO": 25,
+                "JA": 23,
+                "AE": 22,
+                "YA": 22,
+                "KK": 21,
+                "MB": 21,
+                "NG": 21,
+                "PP": 21,
+                "WS": 21,
+                "DS": 19,
+                "MK": 19,
+                "RM": 19,
+                "SC": 19,
+                "KJ": 17,
+                "EP": 16,
+                "KP": 20,
+                "JR": 24
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.31,
+            "mean": 19.47,
+            "scores": {
+                "GO": 24,
+                "JA": 24,
+                "MK": 20,
+                "NG": 20,
+                "YA": 20,
+                "MB": 21,
+                "PP": 21,
+                "KK": 17,
+                "KP": 17,
+                "SC": 17,
+                "DS": 19,
+                "WS": 19,
+                "AE": 23,
+                "JR": 18,
+                "KJ": 18,
+                "RM": 18,
+                "EP": 15
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 53,
+        "name": "Prokopowicz, Yehuda",
+        "birthday": "2005-11-16",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.73,
+            "mean": 20.59,
+            "scores": {
+                "GO": 24,
+                "SC": 24,
+                "EP": 20,
+                "JA": 20,
+                "MK": 20,
+                "MB": 23,
+                "PP": 23,
+                "YA": 23,
+                "DS": 17,
+                "AE": 21,
+                "KK": 19,
+                "NG": 19,
+                "RM": 19,
+                "WS": 19,
+                "KJ": 15,
+                "JR": 22,
+                "KP": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.36,
+            "mean": 20.24,
+            "scores": {
+                "GO": 23,
+                "YA": 23,
+                "JA": 22,
+                "KK": 22,
+                "MB": 22,
+                "NG": 22,
+                "PP": 21,
+                "RM": 21,
+                "SC": 21,
+                "DS": 17,
+                "AE": 18,
+                "KJ": 16,
+                "JR": 19,
+                "KP": 19,
+                "MK": 19,
+                "WS": 19,
+                "EP": 20
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.49,
+            "mean": 19.65,
+            "scores": {
+                "GO": 23,
+                "JA": 22,
+                "NG": 22,
+                "PP": 22,
+                "YA": 22,
+                "AE": 18,
+                "DS": 18,
+                "EP": 18,
+                "KK": 18,
+                "KP": 18,
+                "MB": 18,
+                "RM": 18,
+                "JR": 19,
+                "KJ": 19,
+                "SC": 19,
+                "WS": 19,
+                "MK": 21
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 54,
+        "name": "Rao, Hao",
+        "birthday": "2004-02-04",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.27,
+            "mean": 21.12,
+            "scores": {
+                "GO": 17,
+                "JA": 15,
+                "KP": 24,
+                "WS": 24,
+                "YA": 24,
+                "EP": 23,
+                "MB": 23,
+                "AE": 21,
+                "KK": 21,
+                "SC": 21,
+                "DS": 18,
+                "NG": 25,
+                "PP": 25,
+                "JR": 19,
+                "KJ": 19,
+                "MK": 20,
+                "RM": 20
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 19.15,
+            "mean": 19.29,
+            "scores": {
+                "GO": 16,
+                "JA": 18,
+                "JR": 18,
+                "KP": 18,
+                "PP": 22,
+                "RM": 22,
+                "YA": 22,
+                "MB": 20,
+                "EP": 21,
+                "SC": 21,
+                "AE": 17,
+                "DS": 17,
+                "KJ": 17,
+                "MK": 17,
+                "NG": 24,
+                "KK": 19,
+                "WS": 19
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 55,
+        "name": "Ratinov, Anthony",
+        "birthday": "1997-11-07",
+        "country": [
+            "United States"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.06,
+            "mean": 20.94,
+            "scores": {
+                "AE": 23,
+                "GO": 23,
+                "KP": 23,
+                "MK": 23,
+                "YA": 23,
+                "JA": 18,
+                "KK": 18,
+                "NG": 18,
+                "MB": 21,
+                "PP": 22,
+                "SC": 22,
+                "WS": 22,
+                "DS": 16,
+                "KJ": 19,
+                "EP": 24,
+                "JR": 20,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.13,
+            "mean": 20.0,
+            "scores": {
+                "GO": 22,
+                "MK": 22,
+                "JA": 17,
+                "NG": 17,
+                "AE": 21,
+                "EP": 21,
+                "KK": 21,
+                "SC": 21,
+                "WS": 21,
+                "YA": 21,
+                "JR": 20,
+                "KP": 20,
+                "MB": 20,
+                "DS": 18,
+                "KJ": 19,
+                "PP": 19,
+                "RM": null
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 56,
+        "name": "Sejbuk, Zuzanna",
+        "birthday": "2005-08-20",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 17.72,
+            "mean": 17.76,
+            "scores": {
+                "GO": 18,
+                "AE": 17,
+                "EP": 17,
+                "JA": 17,
+                "KK": 17,
+                "KP": 19,
+                "WS": 19,
+                "YA": 19,
+                "DS": 16,
+                "MB": 16,
+                "MK": 20,
+                "SC": 20,
+                "KJ": 15,
+                "NG": 15,
+                "RM": 22,
+                "PP": 21,
+                "JR": 14
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 57,
+        "name": "Shimada, Jun",
+        "birthday": "2005-03-04",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 19.25,
+            "mean": 19.24,
+            "scores": {
+                "DS": 19,
+                "GO": 19,
+                "KK": 19,
+                "JA": 17,
+                "JR": 17,
+                "SC": 21,
+                "YA": 21,
+                "AE": 22,
+                "MB": 22,
+                "RM": 22,
+                "EP": 18,
+                "NG": 18,
+                "PP": 18,
+                "WS": 18,
+                "KJ": 16,
+                "KP": 20,
+                "MK": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 58,
+        "name": "Shindo, Miyu",
+        "birthday": "2002-04-26",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.92,
+            "mean": 21.82,
+            "scores": {
+                "GO": 20,
+                "NG": 20,
+                "JA": 18,
+                "KJ": 18,
+                "YA": 21,
+                "AE": 24,
+                "KK": 24,
+                "MB": 24,
+                "DS": 23,
+                "PP": 23,
+                "SC": 23,
+                "WS": 23,
+                "EP": 22,
+                "JR": 22,
+                "KP": 22,
+                "MK": 22,
+                "RM": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.82,
+            "mean": 20.71,
+            "scores": {
+                "GO": 17,
+                "DS": 20,
+                "JA": 20,
+                "YA": 20,
+                "EP": 23,
+                "MB": 23,
+                "PP": 23,
+                "WS": 23,
+                "JR": 22,
+                "KP": 22,
+                "MK": 22,
+                "SC": 22,
+                "AE": 19,
+                "RM": 19,
+                "KJ": 18,
+                "NG": 18,
+                "KK": 21
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 21.06,
+            "mean": 21.06,
+            "scores": {
+                "GO": 19,
+                "JA": 20,
+                "JR": 20,
+                "MK": 20,
+                "NG": 20,
+                "SC": 20,
+                "YA": 20,
+                "KJ": 23,
+                "KK": 23,
+                "MB": 23,
+                "PP": 23,
+                "DS": 21,
+                "EP": 21,
+                "KP": 21,
+                "RM": 21,
+                "WS": 21,
+                "AE": 22
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 19.72,
+            "mean": 19.59,
+            "scores": {
+                "GO": 19,
+                "JR": 19,
+                "PP": 19,
+                "RM": 19,
+                "SC": 19,
+                "AE": 20,
+                "DS": 20,
+                "JA": 20,
+                "KJ": 20,
+                "MK": 20,
+                "NG": 20,
+                "YA": 15,
+                "MB": 22,
+                "KK": 21,
+                "KP": 21,
+                "WS": 21,
+                "EP": 18
+            },
+            "result": false
+        }
+    },
+    {
+        "no": 59,
+        "name": "Shoji, Mana",
+        "birthday": "1997-02-10",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.93,
+            "mean": 18.94,
+            "scores": {
+                "DS": 18,
+                "EP": 18,
+                "GO": 18,
+                "PP": 18,
+                "JA": 16,
+                "KJ": 16,
+                "MB": 16,
+                "NG": 16,
+                "WS": 20,
+                "YA": 20,
+                "MK": 21,
+                "SC": 21,
+                "AE": 19,
+                "JR": 22,
+                "KK": 22,
+                "RM": 22,
+                "KP": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 60,
+        "name": "Strata, Gabriele",
+        "birthday": "1999-06-09",
+        "country": [
+            "Italy"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.84,
+            "mean": 19.65,
+            "scores": {
+                "GO": 16,
+                "JA": 20,
+                "KK": 20,
+                "RM": 20,
+                "WS": 20,
+                "AE": 22,
+                "EP": 22,
+                "YA": 22,
+                "MB": 15,
+                "MK": 19,
+                "NG": 19,
+                "SC": 19,
+                "DS": 24,
+                "KJ": 14,
+                "PP": 18,
+                "KP": 21,
+                "JR": 23
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.63,
+            "mean": 20.41,
+            "scores": {
+                "GO": 16,
+                "JA": 22,
+                "JR": 22,
+                "MK": 22,
+                "SC": 22,
+                "YA": 22,
+                "MB": 18,
+                "DS": 23,
+                "AE": 24,
+                "NG": 25,
+                "EP": 17,
+                "KJ": 17,
+                "KK": 17,
+                "KP": 17,
+                "PP": 21,
+                "RM": 21,
+                "WS": 21
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 61,
+        "name": "Strejcová, Eva",
+        "birthday": "2000-09-18",
+        "country": [
+            "Czechia"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 18.11,
+            "mean": 18.18,
+            "scores": {
+                "GO": 17,
+                "JA": 21,
+                "SC": 21,
+                "MK": 20,
+                "PP": 20,
+                "YA": 20,
+                "EP": 15,
+                "MB": 15,
+                "DS": 16,
+                "KK": 16,
+                "NG": 16,
+                "RM": 16,
+                "AE": 24,
+                "KJ": 13,
+                "KP": 22,
+                "JR": 19,
+                "WS": 18
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 62,
+        "name": "Tao, Ziye",
+        "birthday": "2005-05-18",
+        "country": [
+            "China"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 18.41,
+            "mean": 18.31,
+            "scores": {
+                "GO": 14,
+                "JA": 17,
+                "KJ": 17,
+                "YA": 19,
+                "EP": 21,
+                "MB": 21,
+                "MK": 21,
+                "RM": 21,
+                "SC": 21,
+                "AE": 18,
+                "KP": 18,
+                "PP": 18,
+                "JR": 16,
+                "NG": 16,
+                "KK": 20,
+                "WS": 15,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 63,
+        "name": "U, Chun Lam",
+        "birthday": "2002-10-01",
+        "country": [
+            "Hong Kong"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 15.79,
+            "mean": 15.56,
+            "scores": {
+                "GO": 9,
+                "JA": 14,
+                "YA": 18,
+                "AE": 16,
+                "KJ": 16,
+                "KP": 16,
+                "MB": 16,
+                "PP": 16,
+                "RM": 16,
+                "MK": 17,
+                "NG": 17,
+                "SC": 17,
+                "JR": 15,
+                "KK": 15,
+                "EP": 19,
+                "WS": 12,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 64,
+        "name": "Ushida, Tomoharu",
+        "birthday": "1999-10-16",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.81,
+            "mean": 20.75,
+            "scores": {
+                "GO": 19,
+                "JR": 19,
+                "KK": 19,
+                "MB": 19,
+                "JA": 16,
+                "KJ": 20,
+                "YA": 20,
+                "EP": 22,
+                "MK": 22,
+                "SC": 22,
+                "DS": 21,
+                "AE": 24,
+                "NG": 24,
+                "RM": 24,
+                "KP": 23,
+                "WS": 18,
+                "PP": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 21.08,
+            "mean": 21.19,
+            "scores": {
+                "GO": 20,
+                "KP": 20,
+                "DS": 19,
+                "JA": 19,
+                "WS": 19,
+                "KJ": 24,
+                "YA": 24,
+                "MB": 25,
+                "EP": 22,
+                "KK": 22,
+                "RM": 22,
+                "SC": 22,
+                "AE": 21,
+                "MK": 21,
+                "NG": 21,
+                "JR": 18,
+                "PP": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.58,
+            "mean": 20.63,
+            "scores": {
+                "GO": 21,
+                "MB": 21,
+                "SC": 21,
+                "YA": 21,
+                "AE": 20,
+                "EP": 20,
+                "JA": 20,
+                "JR": 20,
+                "KK": 20,
+                "MK": 20,
+                "WS": 20,
+                "DS": 19,
+                "NG": 19,
+                "KJ": 22,
+                "KP": 23,
+                "RM": 23,
+                "PP": null
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 65,
+        "name": "Wang, Ryan",
+        "birthday": "2007-08-16",
+        "country": [
+            "Canada"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.07,
+            "mean": 17.12,
+            "scores": {
+                "GO": 17,
+                "KK": 17,
+                "KP": 17,
+                "MB": 17,
+                "MK": 17,
+                "JA": 19,
+                "YA": 19,
+                "SC": 21,
+                "DS": 16,
+                "PP": 16,
+                "WS": 16,
+                "AE": 18,
+                "JR": 18,
+                "NG": 18,
+                "EP": 15,
+                "KJ": 15,
+                "RM": 15
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 66,
+        "name": "Wang, Zitong",
+        "birthday": "1999-02-03",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 21.03,
+            "mean": 20.81,
+            "scores": {
+                "AE": 22,
+                "GO": 22,
+                "JR": 22,
+                "KP": 22,
+                "SC": 22,
+                "WS": 22,
+                "JA": 21,
+                "RM": 21,
+                "YA": 21,
+                "MB": 17,
+                "NG": 17,
+                "KJ": 16,
+                "EP": 23,
+                "KK": 23,
+                "MK": 23,
+                "PP": 19,
+                "DS": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.69,
+            "mean": 20.56,
+            "scores": {
+                "GO": 22,
+                "JA": 22,
+                "SC": 22,
+                "RM": 23,
+                "YA": 23,
+                "AE": 21,
+                "JR": 21,
+                "MB": 21,
+                "NG": 17,
+                "KJ": 16,
+                "EP": 24,
+                "KK": 24,
+                "MK": 19,
+                "KP": 18,
+                "PP": 18,
+                "WS": 18,
+                "DS": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 22.8,
+            "mean": 22.63,
+            "scores": {
+                "GO": 23,
+                "JA": 23,
+                "MK": 23,
+                "NG": 23,
+                "WS": 23,
+                "RM": 22,
+                "SC": 22,
+                "YA": 22,
+                "JR": 25,
+                "KK": 25,
+                "MB": 25,
+                "AE": 24,
+                "EP": 24,
+                "KJ": 19,
+                "PP": 19,
+                "KP": 20,
+                "DS": null
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 20.64,
+            "mean": 20.75,
+            "scores": {
+                "GO": 19,
+                "KJ": 19,
+                "KK": 19,
+                "WS": 19,
+                "JA": 25,
+                "AE": 20,
+                "JR": 20,
+                "YA": 20,
+                "MB": 21,
+                "PP": 21,
+                "SC": 18,
+                "NG": 23,
+                "EP": 22,
+                "KP": 22,
+                "MK": 22,
+                "RM": 22,
+                "DS": null
+            },
+            "result": 3
+        }
+    },
+    {
+        "no": 67,
+        "name": "Widlarz, Jan",
+        "birthday": "2002-06-24",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.5,
+            "mean": 18.5,
+            "scores": {
+                "GO": 19,
+                "KK": 19,
+                "JA": 16,
+                "KJ": 16,
+                "MK": 20,
+                "SC": 20,
+                "WS": 20,
+                "YA": 20,
+                "AE": 17,
+                "DS": 17,
+                "MB": 17,
+                "NG": 17,
+                "JR": 18,
+                "RM": 18,
+                "EP": 21,
+                "PP": 21,
+                "KP": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 68,
+        "name": "Wierciński, Andrzej",
+        "birthday": "1995-11-21",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 19.02,
+            "mean": 19.06,
+            "scores": {
+                "EP": 17,
+                "GO": 17,
+                "DS": 18,
+                "JA": 18,
+                "AE": 21,
+                "JR": 21,
+                "MK": 21,
+                "PP": 21,
+                "YA": 21,
+                "MB": 24,
+                "RM": 20,
+                "SC": 20,
+                "KJ": 16,
+                "NG": 16,
+                "KK": 15,
+                "KP": 19,
+                "WS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 69,
+        "name": "Wierciński, Krzysztof",
+        "birthday": "2003-02-22",
+        "country": [
+            "Poland"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.4,
+            "mean": 18.29,
+            "scores": {
+                "GO": 18,
+                "JR": 18,
+                "KP": 18,
+                "RM": 18,
+                "WS": 18,
+                "JA": 12,
+                "DS": 19,
+                "MK": 19,
+                "YA": 19,
+                "EP": 17,
+                "MB": 17,
+                "NG": 17,
+                "PP": 22,
+                "SC": 22,
+                "AE": 21,
+                "KJ": 16,
+                "KK": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 70,
+        "name": "Wong, Victoria",
+        "birthday": "1997-02-15",
+        "country": [
+            "United States"
+        ],
+        "piano": "Yamaha",
+        "stage1": {
+            "cmean": 18.29,
+            "mean": 18.31,
+            "scores": {
+                "AE": 18,
+                "GO": 18,
+                "JA": 18,
+                "KP": 18,
+                "MK": 18,
+                "EP": 20,
+                "PP": 20,
+                "YA": 20,
+                "DS": 17,
+                "MB": 17,
+                "NG": 17,
+                "WS": 17,
+                "SC": 22,
+                "KJ": 15,
+                "JR": 19,
+                "RM": 19,
+                "KK": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 71,
+        "name": "Wu, Maiqi",
+        "birthday": "2003-10-20",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.66,
+            "mean": 18.63,
+            "scores": {
+                "GO": 20,
+                "WS": 20,
+                "JA": 15,
+                "DS": 19,
+                "KJ": 19,
+                "KK": 19,
+                "MB": 19,
+                "PP": 19,
+                "YA": 19,
+                "KP": 21,
+                "SC": 21,
+                "AE": 17,
+                "JR": 17,
+                "RM": 17,
+                "MK": 18,
+                "NG": 18,
+                "EP": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 72,
+        "name": "Wu, Yifan",
+        "birthday": "2008-11-11",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 21.47,
+            "mean": 21.47,
+            "scores": {
+                "DS": 20,
+                "GO": 20,
+                "JA": 20,
+                "KK": 20,
+                "RM": 20,
+                "KJ": 19,
+                "YA": 19,
+                "MB": 24,
+                "MK": 24,
+                "NG": 24,
+                "AE": 23,
+                "SC": 23,
+                "WS": 23,
+                "KP": 21,
+                "PP": 21,
+                "EP": 22,
+                "JR": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.32,
+            "mean": 20.35,
+            "scores": {
+                "GO": 21,
+                "SC": 21,
+                "YA": 21,
+                "JA": 19,
+                "PP": 19,
+                "MB": 24,
+                "DS": 17,
+                "AE": 23,
+                "MK": 23,
+                "NG": 22,
+                "WS": 22,
+                "EP": 18,
+                "KJ": 18,
+                "KP": 18,
+                "JR": 20,
+                "KK": 20,
+                "RM": 20
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 19.8,
+            "mean": 19.88,
+            "scores": {
+                "GO": 20,
+                "JR": 20,
+                "KJ": 20,
+                "KK": 20,
+                "NG": 20,
+                "PP": 20,
+                "RM": 20,
+                "WS": 20,
+                "YA": 20,
+                "JA": 19,
+                "KP": 19,
+                "MB": 24,
+                "SC": 18,
+                "DS": 17,
+                "EP": 17,
+                "AE": 21,
+                "MK": 23
+            },
+            "result": false
+        },
+        "stage4": null
+    },
+    {
+        "no": 73,
+        "name": "Yamagata, Miki",
+        "birthday": "2002-03-11",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 19.61,
+            "mean": 19.47,
+            "scores": {
+                "GO": 20,
+                "NG": 20,
+                "JA": 13,
+                "JR": 18,
+                "KP": 18,
+                "YA": 18,
+                "AE": 22,
+                "MB": 22,
+                "RM": 22,
+                "SC": 21,
+                "DS": 17,
+                "EP": 17,
+                "KJ": 19,
+                "PP": 19,
+                "WS": 19,
+                "KK": 23,
+                "MK": 23
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 20.35,
+            "mean": 20.24,
+            "scores": {
+                "GO": 19,
+                "JA": 18,
+                "PP": 18,
+                "JR": 21,
+                "KP": 21,
+                "NG": 21,
+                "RM": 21,
+                "YA": 21,
+                "MB": 24,
+                "SC": 20,
+                "DS": 17,
+                "KJ": 17,
+                "AE": 22,
+                "KK": 22,
+                "MK": 23,
+                "WS": 23,
+                "EP": 16
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 74,
+        "name": "Yamazaki, Ryota",
+        "birthday": "1998-11-17",
+        "country": [
+            "Japan"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.54,
+            "mean": 17.53,
+            "scores": {
+                "GO": 19,
+                "JA": 13,
+                "NG": 20,
+                "YA": 20,
+                "EP": 16,
+                "JR": 16,
+                "KJ": 16,
+                "KK": 16,
+                "MB": 16,
+                "RM": 16,
+                "AE": 21,
+                "MK": 21,
+                "SC": 21,
+                "DS": 17,
+                "KP": 17,
+                "PP": 18,
+                "WS": 15
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 75,
+        "name": "Yang, Fanze",
+        "birthday": "2009-02-22",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.95,
+            "mean": 18.71,
+            "scores": {
+                "GO": 19,
+                "KK": 19,
+                "KP": 19,
+                "PP": 19,
+                "JA": 10,
+                "NG": 20,
+                "YA": 20,
+                "MB": 18,
+                "MK": 18,
+                "DS": 21,
+                "EP": 21,
+                "SC": 21,
+                "AE": 22,
+                "JR": 16,
+                "KJ": 16,
+                "WS": 16,
+                "RM": 23
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 76,
+        "name": "Yang, William",
+        "birthday": "2001-05-13",
+        "country": [
+            "United States"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.22,
+            "mean": 20.25,
+            "scores": {
+                "GO": 19,
+                "EP": 21,
+                "JA": 21,
+                "KJ": 21,
+                "MK": 18,
+                "PP": 18,
+                "YA": 18,
+                "MB": 17,
+                "KK": 20,
+                "KP": 20,
+                "SC": 20,
+                "WS": 20,
+                "DS": 22,
+                "NG": 22,
+                "AE": 24,
+                "JR": 23,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 22.38,
+            "mean": 22.0,
+            "scores": {
+                "GO": 21,
+                "PP": 21,
+                "WS": 21,
+                "JA": 16,
+                "NG": 16,
+                "YA": 20,
+                "MB": 23,
+                "AE": 24,
+                "DS": 24,
+                "KK": 24,
+                "KP": 24,
+                "SC": 24,
+                "KJ": 22,
+                "MK": 22,
+                "EP": 25,
+                "JR": 25,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage3": {
+            "cmean": 20.69,
+            "mean": 20.81,
+            "scores": {
+                "GO": 21,
+                "KJ": 21,
+                "MB": 21,
+                "MK": 21,
+                "SC": 21,
+                "AE": 19,
+                "EP": 19,
+                "JA": 19,
+                "PP": 19,
+                "DS": 20,
+                "YA": 20,
+                "NG": 18,
+                "KK": 24,
+                "KP": 24,
+                "JR": 23,
+                "WS": 23,
+                "RM": null
+            },
+            "result": true
+        },
+        "stage4": {
+            "cmean": 20.48,
+            "mean": 20.38,
+            "scores": {
+                "EP": 19,
+                "GO": 19,
+                "JA": 19,
+                "YA": 16,
+                "JR": 21,
+                "MB": 21,
+                "KK": 23,
+                "KP": 23,
+                "PP": 23,
+                "SC": 23,
+                "DS": 20,
+                "WS": 20,
+                "AE": 18,
+                "NG": 17,
+                "KJ": 22,
+                "MK": 22,
+                "RM": null
+            },
+            "result": 6
+        }
+    },
+    {
+        "no": 77,
+        "name": "Yang, Yuanfan",
+        "birthday": "1997-01-02",
+        "country": [
+            "United Kingdom"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 18.38,
+            "mean": 18.41,
+            "scores": {
+                "AE": 17,
+                "DS": 17,
+                "EP": 17,
+                "GO": 17,
+                "KK": 17,
+                "JA": 22,
+                "KJ": 20,
+                "PP": 20,
+                "SC": 20,
+                "WS": 20,
+                "YA": 20,
+                "MB": 18,
+                "MK": 18,
+                "KP": 19,
+                "NG": 19,
+                "JR": 16,
+                "RM": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 78,
+        "name": "Yu, Yichen",
+        "birthday": "2002-09-08",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.79,
+            "mean": 18.82,
+            "scores": {
+                "AE": 17,
+                "GO": 17,
+                "MB": 17,
+                "JA": 22,
+                "KJ": 22,
+                "KK": 22,
+                "EP": 18,
+                "YA": 18,
+                "KP": 21,
+                "PP": 21,
+                "SC": 21,
+                "DS": 16,
+                "JR": 16,
+                "RM": 16,
+                "WS": 16,
+                "MK": 20,
+                "NG": 20
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 79,
+        "name": "Yu, Yuewen",
+        "birthday": "2001-05-01",
+        "country": [
+            "China"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 18.46,
+            "mean": 18.71,
+            "scores": {
+                "GO": 23,
+                "JR": 23,
+                "AE": 17,
+                "JA": 17,
+                "YA": 20,
+                "DS": 16,
+                "KJ": 16,
+                "KK": 16,
+                "MB": 16,
+                "WS": 16,
+                "EP": 21,
+                "SC": 21,
+                "NG": 15,
+                "MK": 19,
+                "PP": 19,
+                "RM": 19,
+                "KP": 24
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 80,
+        "name": "Zenin, Andrey",
+        "birthday": "1995-01-18",
+        "country": [
+            "INP"
+        ],
+        "piano": "Kawai",
+        "stage1": {
+            "cmean": 17.78,
+            "mean": 17.76,
+            "scores": {
+                "GO": 21,
+                "PP": 21,
+                "YA": 21,
+                "JA": 22,
+                "SC": 22,
+                "AE": 19,
+                "KP": 19,
+                "MB": 19,
+                "DS": 15,
+                "EP": 15,
+                "KK": 15,
+                "WS": 15,
+                "NG": 14,
+                "KJ": 12,
+                "MK": 18,
+                "RM": 18,
+                "JR": 16
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 81,
+        "name": "Zhang, Jacky",
+        "birthday": "2008-06-08",
+        "country": [
+            "United Kingdom"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 20.75,
+            "mean": 20.59,
+            "scores": {
+                "GO": 15,
+                "DS": 17,
+                "JA": 17,
+                "YA": 21,
+                "MB": 25,
+                "EP": 24,
+                "RM": 24,
+                "SC": 24,
+                "AE": 23,
+                "PP": 23,
+                "JR": 20,
+                "KP": 20,
+                "MK": 20,
+                "NG": 20,
+                "KJ": 16,
+                "KK": 19,
+                "WS": 22
+            },
+            "result": true
+        },
+        "stage2": {
+            "cmean": 18.8,
+            "mean": 18.88,
+            "scores": {
+                "DS": 19,
+                "EP": 19,
+                "GO": 19,
+                "JA": 19,
+                "RM": 19,
+                "WS": 19,
+                "SC": 20,
+                "YA": 20,
+                "MB": 21,
+                "AE": 18,
+                "JR": 18,
+                "KK": 18,
+                "MK": 18,
+                "NG": 18,
+                "KJ": 16,
+                "PP": 23,
+                "KP": 17
+            },
+            "result": false
+        },
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 82,
+        "name": "Zhong, Yonghuan",
+        "birthday": "2005-09-09",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 17.33,
+            "mean": 17.44,
+            "scores": {
+                "GO": 16,
+                "JR": 16,
+                "KJ": 16,
+                "KK": 16,
+                "NG": 16,
+                "RM": 16,
+                "JA": 20,
+                "DS": 18,
+                "YA": 18,
+                "EP": 15,
+                "MB": 15,
+                "MK": 21,
+                "PP": 21,
+                "SC": 21,
+                "AE": 17,
+                "KP": 17,
+                "WS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 83,
+        "name": "Zhu, Hanyuan",
+        "birthday": "2004-10-26",
+        "country": [
+            "China"
+        ],
+        "piano": "Fazioli",
+        "stage1": {
+            "cmean": 18.59,
+            "mean": 18.75,
+            "scores": {
+                "GO": 15,
+                "MB": 15,
+                "JA": 16,
+                "JR": 16,
+                "KJ": 16,
+                "WS": 16,
+                "PP": 18,
+                "YA": 18,
+                "MK": 22,
+                "SC": 22,
+                "AE": 24,
+                "NG": 17,
+                "KK": 23,
+                "RM": 20,
+                "EP": 21,
+                "KP": 21,
+                "DS": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    },
+    {
+        "no": 84,
+        "name": "Zhu, Jingting",
+        "birthday": "2002-02-28",
+        "country": [
+            "China"
+        ],
+        "piano": "Steinway",
+        "stage1": {
+            "cmean": 18.33,
+            "mean": 18.31,
+            "scores": {
+                "GO": 15,
+                "JA": 18,
+                "KK": 18,
+                "NG": 18,
+                "JR": 19,
+                "PP": 19,
+                "YA": 19,
+                "AE": 17,
+                "MB": 17,
+                "EP": 20,
+                "KP": 20,
+                "MK": 20,
+                "SC": 20,
+                "DS": 16,
+                "WS": 16,
+                "KJ": 21,
+                "RM": null
+            },
+            "result": false
+        },
+        "stage2": null,
+        "stage3": null,
+        "stage4": null
+    }
+]
